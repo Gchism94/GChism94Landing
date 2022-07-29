@@ -1,0 +1,35 @@
+---
+title: "Greg T. Chism"
+image: "gregchism.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/greg-chism-b0185a222/"
+  - label: Profile
+    url: "https://gchism.netlify.app/"
+  - label: GitHub
+    url: "https://github.com/Gchism94"
+  - label: Email
+    url: "mailto:gchism@arizona.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+I develop statistics and reproducible research curriculum as a Computational and Data Science Educator at the University of Arizona Data Science Institute, where my experience with image and video analysis and research ethics support my devotion to open science. 
+
+## Education
+
+**The University of Arizona** | Tucson, AZ
+
+Ph.D. in Entomology and Insect Science | August 2015 - May 2022
+
+**The University of California, Santa Barbara** | Santa Barbara, CA
+
+B.S. in Zoology | September 2005 - May 2009
+
+## Experience
+
+**University of Arizona, Data Science Institute** | Computational and Data Science Educator | January 2022 - Present
+
+**University of Arizona, Entomology and Insect Science GIDP** | NSF Graduate Research Fellow | August 2019 - August 2022
