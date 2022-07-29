@@ -1,10 +1,10 @@
 ---
 title: "Greg T. Chism"
-image: "gregchism.jpg"
+image: "gregtchism.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/greg-chism-b0185a222/"
-  - label: Profile
+  - label: Portfolio
     url: "https://gchism.netlify.app/"
   - label: GitHub
     url: "https://github.com/Gchism94"
