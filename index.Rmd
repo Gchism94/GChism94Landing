@@ -11,7 +11,7 @@ links:
   - label: Email
     url: "mailto:gchism@arizona.edu"
   - label: CV
-    url: "https://main--gregtchism.netlify.app/cv/gchism_cv.pdf/"
+    url: "https://gregtchism.netlify.app/cv/gchism_cv.pdf/"
 output:
   postcards::trestles
 ---
