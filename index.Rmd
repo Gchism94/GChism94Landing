@@ -10,7 +10,7 @@ links:
     url: "https://github.com/Gchism94"
   - label: Email
     url: "mailto:gchism@arizona.edu"
-  - label: CV
+  - label: Resume
     url: "https://gregtchism.netlify.app/resume/gchism_resume.pdf/"
 output:
   postcards::trestles
