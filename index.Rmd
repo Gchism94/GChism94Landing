@@ -3,7 +3,7 @@ title: "Greg T. Chism"
 image: "gregtchism.jpg"
 links:
   - label: LinkedIn
-    url: "https://www.linkedin.com/in/greg-chism-b0185a222/"
+    url: "https://www.linkedin.com/in/greg-chism/"
   - label: Portfolio
     url: "https://gregtchism.netlify.app/"
   - label: GitHub
@@ -11,7 +11,7 @@ links:
   - label: Email
     url: "mailto:gchism@arizona.edu"
   - label: CV
-    url: "https://gregtchism.netlify.app/cv/gchism_cv.pdf/"
+    url: "https://gregtchism.netlify.app/resume/gchism_resume.pdf/"
 output:
   postcards::trestles
 ---
