@@ -9,7 +9,7 @@ links:
   - label: GitHub
     url: "https://github.com/Gchism94"
   - label: Email
-    url: "mailto:gchism@arizona.edu"
+    url: "mailto:gchism94@gmail.com"
   - label: Resume
     url: "https://gregtchism.netlify.app/resume/gchism_resume.pdf/"
 output:
